@@ -1,0 +1,11 @@
+@media screen and (max-width: 600px) {
+    .hi {
+        width: 100%;
+
+  }
+
+  .hide {
+      display: none;
+  }
+
+    }
